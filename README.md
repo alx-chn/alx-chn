@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hiiiiiii :D 👋
 
 <!--
 **alx-chn/alx-chn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm thinking what should I put in here :) Come back again later la :D
 
 Here are some ideas to get you started:
 
