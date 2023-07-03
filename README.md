@@ -1,9 +1,8 @@
-### Hiiiiiii :D 👋
+### Ching Yee is working hard to learn new stuff, but she is still willing to share her learning progress with you :)
+### Let's improve together! ✨
 
 <!--
 **alx-chn/alx-chn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm thinking what should I put in here :) Come back again later la :D
 
 Here are some ideas to get you started:
 
