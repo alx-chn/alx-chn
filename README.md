@@ -1,5 +1,5 @@
 ### Ching Yee is working hard to learn new stuff, but she is still willing to share her learning progress with you :)
-## Working on projects and they are still on the way to be pushed ...
+### Working on projects and they are still on the way to be pushed ... Check https://alx-chn.github.io/ if you want to know more about me and the current progress of the projects!
 ### Let's improve together! ✨
 
 <!--
