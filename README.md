@@ -1,4 +1,5 @@
 ### Ching Yee is working hard to learn new stuff, but she is still willing to share her learning progress with you :)
+## Working on projects and they are still on the way to be pushed ...
 ### Let's improve together! ✨
 
 <!--
